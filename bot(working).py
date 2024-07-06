@@ -15,7 +15,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 
 
 #pycord stuff further
-GUILD_IDS = [1195734655106818069, 1229526612140363817] 
+GUILD_IDS = [PUT YOUR GUILD IDS HERE!!!!] 
 
 @bot.event
 async def on_ready():
