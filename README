@@ -1,0 +1,13 @@
+Hello! 
+This bot uses the keras model from google's teachable machine in order to classify the possible weather on the picture you send it.
+Currently the only supported kinds of weather this bot understands are:
+  Sunny weather
+  Rainy weather
+  Snowy weather
+I may or may not add more later, it takes quite a bit of time.
+Basically, you use the proccess_image command in discord chat (Don't forget to change GUILD_IDS to make it work on your server)
+After you input the command, you also have to upload an image. The bot checks whether what you uploaded is an image or not.
+After you upload it, the bot tries to guess what kind of weather it is that is shown on the picture. 
+
+Please remember, the bot IS NOT a human. It can still make mistakes, as it's dataset that was used for training was NOT perfect.
+(its hard to find big datasets with pictures, and downloading them myself one-by-one is very slow and won't give as good of a result)
