@@ -1,0 +1,3 @@
+0 Rainy
+1 Sunny
+2 Snowy

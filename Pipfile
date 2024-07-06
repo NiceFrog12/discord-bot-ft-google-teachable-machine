@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+requests = "*"
+pillow = "*"
+google-cloud-vision = "*"
+google-cloud-translate = "*"
+tensorflow = "==2.15"
+keras = "*"
+py-cord = "*"
+discord = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
